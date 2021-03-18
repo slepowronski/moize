@@ -95,7 +95,7 @@
     "license": "MIT",
     "main": "dist/moize.cjs.js",
     "module": "dist/moize.esm.js",
-    "name": "moize-import-type",
+    "name": "moize-import",
     "nyc": {
         "exclude": [
             "**/plugins/*.js",
@@ -135,5 +135,5 @@
     },
     "sideEffects": false,
     "types": "./index.d.ts",
-    "version": "6.0.1"
+    "version": "6.0.0"
 }
