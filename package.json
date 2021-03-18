@@ -14,7 +14,7 @@
     },
     "dependencies": {
         "fast-equals": "2.0.0",
-        "micro-memoize": "4.0.9"
+        "micro-memoize-import-type": "4.0.9"
     },
     "description": "Blazing fast memoization based on all parameters passed",
     "devDependencies": {
@@ -95,7 +95,7 @@
     "license": "MIT",
     "main": "dist/moize.cjs.js",
     "module": "dist/moize.esm.js",
-    "name": "moize",
+    "name": "moize-import-type",
     "nyc": {
         "exclude": [
             "**/plugins/*.js",
